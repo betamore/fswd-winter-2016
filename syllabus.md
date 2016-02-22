@@ -1,5 +1,91 @@
 # Intro to Full Stack Web Development (Winter 2016)
 
+## Units
+
+### Unit 1: Fundamentals and Programming Refresher
+
+* Overview of the web
+  * Requests and responses
+* Introduction to Git
+  * Cloning
+  * Push
+  * Pull request
+* JavaScript
+  * Loops and other control structures
+  * Functions
+  * Testing
+* Using the command line
+  * Git
+  * Navigating directories
+  * Running tests
+* [Lab 1: Testing, FizzBuzz, and Fibonacci](https://github.com/betamore/fswd-winter-2016-lab-1)
+* [Lab 2: Hello World Web Server in Node](https://github.com/betamore/fswd-winter-2016-lab-2)
+
+#### Homework
+
+* [Eloquent JavaScript][ELJS] Chapters 1-4
+* [Pro Git][PG] Chapters 1-2
+
+### Unit 2: Intro to Express and jQuery
+
+* Node HTTP Server
+* Intro to Express application framework
+* Middleware and static files
+* Running a server application
+* HTML, CSS, the DOM
+* [Lab 3: Wild Wild Web](https://github.com/betamore/fswd-winter-2016-lab-3)
+* [Lab 4: GETs, POSTs, and templates](https://github.com/betamore/fswd-winter-2016-lab-4)
+
+#### Homework
+
+* [Eloquent JavaScript][ELJS] Chapters 20, 12-14, 17, 18
+
+### Unit 3: Data Storage and Templating
+
+* Intro to SQL and databases
+* ORMs
+* Server-side templating
+* Application deployment with Heroku
+* [Lab 5: HTML to Jade](https://github.com/betamore/fswd-winter-2016-lab-5)
+* [Lab 6](https://github.com/betamore/fswd-winter-2016-lab-6)
+
+#### Homework
+
+* Tutorial: [Intro to SQL][SQLB]
+* [Jade](http://jade-lang.com)
+
+#### Project: Todo
+
+### Unit 4: Authentication, Authorization, and Sessions
+
+* Cookies
+* Users and passwords
+* Logging in and out
+* Access control schemes
+* Development tools!
+* More robust templating
+* Angular forms
+
+### Unit 5: Advanced Forms
+
+* Form validation with Angular
+* AJAX
+* Sending email
+
+### Unit 6: Application Structure with MVC
+
+* Programming patterns, disciplines, and methodologies (Oh my!)
+
+#### Project: Multi-user/list Todo
+
+### Unit 7: Advanced JavaScript
+
+### Unit 8: Single Page Applications
+
+### Unit 9: TBD
+
+### Unit 10: Build your own app!
+
 ## Labs
 
 * [Lab 1: Testing, FizzBuzz, and Fibonacci](https://github.com/betamore/fswd-winter-2016-lab-1)
@@ -68,10 +154,10 @@ Use your new found skills to start building something awesome!
 ### Books
 
 * JavaScript
-  * [Eloquent Javascript](http://eloquentjavascript.net)
+  * [Eloquent Javascript][ELJS]
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 * Git
-  * [Pro GIT](https://git-scm.com/book/en/v2)
+  * [Pro Git][PG]
   
 
 ### Library/Framework Documentation
@@ -93,8 +179,11 @@ Use your new found skills to start building something awesome!
 
 ### Tutorials
 
-* [Introduction to SQL](http://sqlbolt.com/lesson/introduction)
+* [Introduction to SQL][SQLB]
 * Git
   * [https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1)
   * [Hello World](https://guides.github.com/activities/hello-world/)
 
+[ELJS]: http://eloquentjavascript.net
+[PG]: https://git-scm.com/book/en/v2
+[SQLB]: http://sqlbolt.com/lesson/introduction
