@@ -1,5 +1,8 @@
 # Intro to Full Stack Web Development (Winter 2016)
 
+# Notes
+  * [Week 1 - Requests and Responses, JS concepts, Tests, Git](https://github.com/betamore/fswd-winter-2016/blob/master/week_01.md)
+
 ## Units
 
 ### Unit 1: Fundamentals and Programming Refresher
@@ -158,7 +161,7 @@ Use your new found skills to start building something awesome!
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 * Git
   * [Pro Git][PG]
-  
+
 
 ### Library/Framework Documentation
 
