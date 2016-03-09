@@ -3,6 +3,7 @@
 # Notes
   * [Week 1 - Requests and Responses, JS concepts, Tests, Git](https://github.com/betamore/fswd-winter-2016/blob/master/week_01.md)
   * [Week 2 - HTML, CSS, DOM, Node Server, Express](https://github.com/betamore/fswd-winter-2016/blob/master/week_02.md)
+  * [Week 3 - Databases, ORMs, SQL, Sequelize](https://github.com/betamore/fswd-winter-2016/blob/master/week_03.md)
 
 ## Units
 
