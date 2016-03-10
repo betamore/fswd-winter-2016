@@ -1,9 +1,40 @@
 # Intro to Full Stack Web Development (Winter 2016)
 
-# Notes
-  * [Week 1 - Requests and Responses, JS concepts, Tests, Git](https://github.com/betamore/fswd-winter-2016/blob/master/week_01.md)
-  * [Week 2 - HTML, CSS, DOM, Node Server, Express](https://github.com/betamore/fswd-winter-2016/blob/master/week_02.md)
-  * [Week 3 - Databases, ORMs, SQL, Sequelize](https://github.com/betamore/fswd-winter-2016/blob/master/week_03.md)
+## Table of Contents
+  * [Notes](#notes)
+  * [Units](#units)
+    * [Unit 1: Fundamentals and Programming Refresher](#unit-1-fundamentals-and-programming-refresher)
+      * [Lab 1: Testing, FizzBuzz, and Fibonacci](https://github.com/betamore/fswd-winter-2016-lab-1)
+      * [Lab 2: Hello World Web Server in Node](https://github.com/betamore/fswd-winter-2016-lab-2)
+      * [Homework](#homework)
+    * [Unit 2: Intro to Express and jQuery](#unit-2-intro-to-express-and-jquery)
+      * [Lab 3: Wild Wild Web](https://github.com/betamore/fswd-winter-2016-lab-3)
+      * [Lab 4: GETs, POSTs, and templates](https://github.com/betamore/fswd-winter-2016-lab-4)
+      * [Homework](#homework-1)
+    * [Unit 3: Data Storage and Templating](#unit-3-data-storage-and-templating)
+      * [Lab 5: HTML to Jade](https://github.com/betamore/fswd-winter-2016-lab-5)
+      * [Lab 6](https://github.com/betamore/fswd-winter-2016-lab-5/tree/fswd-lab-6)
+      * [Homework](#homework-2)
+      * [Project: Todo](#todo)
+    * [Unit 4: Authentication, Authorization, and Sessions](#unit-4-authentication-authorization-and-sessions)
+    * [Unit 5: Advanced Forms](#unit-5-advanced-forms)
+    * [Unit 6: Application Structure with MVC](#unit-6-application-structure-with-mvc)
+      * [Project: Multi-user/list Todo](#multi-userlist-todo)
+    * [Unit 7: Advanced JavaScript](#unit-7-advanced-javascript)
+    * [Unit 8: Single Page Applications](#unit-8-single-page-applications)
+    * [Unit 9: TBD](#unit-9-tbd)
+    * [Unit 10: Build Your Own App!](#unit-10-build-your-own-app)
+  * [Labs](#labs)
+  * [Projects](#projects)
+    * [Todo](#todo)
+    * [Multi-user/list Todo](#multi-userlist-todo)
+    * [Build Your Own App!](#build-your-own-app)
+  * [Resources](#resources)
+
+## Notes
+  * [Week 1 - Requests and Responses, JS concepts, Tests, Git](week_01.md)
+  * [Week 2 - HTML, CSS, DOM, Node Server, Express](week_02.md)
+  * [Week 3 - Databases, ORMs, SQL, Sequelize](week_03.md)
 
 ## Units
 
@@ -52,7 +83,7 @@
 * Server-side templating
 * Application deployment with Heroku
 * [Lab 5: HTML to Jade](https://github.com/betamore/fswd-winter-2016-lab-5)
-* [Lab 6](https://github.com/betamore/fswd-winter-2016-lab-6)
+* [Lab 6](https://github.com/betamore/fswd-winter-2016-lab-5/tree/fswd-lab-6)
 
 #### Homework
 
