@@ -12,8 +12,8 @@
       * [Lab 4: GETs, POSTs, and templates](https://github.com/betamore/fswd-winter-2016-lab-4)
       * [Homework](#homework-1)
     * [Unit 3: Data Storage and Templating](#unit-3-data-storage-and-templating)
-      * [Lab 5: HTML to Jade](https://github.com/betamore/fswd-winter-2016-lab-5)
-      * [Lab 6](https://github.com/betamore/fswd-winter-2016-lab-5/tree/fswd-lab-6)
+      * [Lab 5: All Your (Data)Base Are Belong To Us](https://github.com/betamore/fswd-winter-2016-lab-5/tree/78e1ecd08213659f08bb72996c89b2b0a5d6b4e9)
+      * [Lab 6: Are you suggesting that coconuts migrate?](https://github.com/betamore/fswd-winter-2016-lab-5/tree/fswd-lab-6)
       * [Homework](#homework-2)
       * [Project: Todo](#todo)
     * [Unit 4: Authentication, Authorization, and Sessions](#unit-4-authentication-authorization-and-sessions)
@@ -35,6 +35,7 @@
   * [Week 1 - Requests and Responses, JS concepts, Tests, Git](week_01.md)
   * [Week 2 - HTML, CSS, DOM, Node Server, Express](week_02.md)
   * [Week 3 - Databases, ORMs, SQL, Sequelize](week_03.md)
+  * [Week 4 - Templates, Jade](week_04.md)
 
 ## Units
 
@@ -82,8 +83,8 @@
 * ORMs
 * Server-side templating
 * Application deployment with Heroku
-* [Lab 5: HTML to Jade](https://github.com/betamore/fswd-winter-2016-lab-5)
-* [Lab 6](https://github.com/betamore/fswd-winter-2016-lab-5/tree/fswd-lab-6)
+* [Lab 5: All Your (Data)Base Are Belong To Us](https://github.com/betamore/fswd-winter-2016-lab-5/tree/78e1ecd08213659f08bb72996c89b2b0a5d6b4e9)
+* [Lab 6: Are you suggesting that coconuts migrate?](https://github.com/betamore/fswd-winter-2016-lab-5/tree/fswd-lab-6)
 
 #### Homework
 
@@ -128,6 +129,8 @@
 * [Lab 2: Hello World Web Server in Node](https://github.com/betamore/fswd-winter-2016-lab-2)
 * [Lab 3: Wild Wild Web](https://github.com/betamore/fswd-winter-2016-lab-3)
 * [Lab 4: GETs, POSTs, and templates](https://github.com/betamore/fswd-winter-2016-lab-4)
+* [Lab 5: All Your (Data)Base Are Belong To Us](https://github.com/betamore/fswd-winter-2016-lab-5/tree/78e1ecd08213659f08bb72996c89b2b0a5d6b4e9)
+* [Lab 6: Are you suggesting that coconuts migrate?](https://github.com/betamore/fswd-winter-2016-lab-5/tree/fswd-lab-6)
 
 ## Projects
 
