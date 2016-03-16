@@ -36,6 +36,7 @@
   * [Week 2 - HTML, CSS, DOM, Node Server, Express](week_02.md)
   * [Week 3 - Databases, ORMs, SQL, Sequelize](week_03.md)
   * [Week 4 - Templates, Jade](week_04.md)
+  * [Week 6 - Cookies, Sessions, Redis, Gulp](week_06.md)
 
 ## Units
 
